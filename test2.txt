@@ -1,2 +1,2 @@
 Hello, this is my first git task.
-It's very intersting!
+It's very intersting and useful!
